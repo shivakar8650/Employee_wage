@@ -8,6 +8,3 @@ then
 else
 	echo "Employee is Absent"
 fi
-
-
-echo "check the merge conflict"
